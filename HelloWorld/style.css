@@ -1,0 +1,23 @@
+body{
+    background: rgb(145, 145, 232);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: beige;
+}
+
+.titlebg{
+    background: blueviolet;
+}
+
+.footsies{
+    font-size: small;
+    font-family: monospace;
+    color: blueviolet;
+}
+
+.alldetext{
+    width: fill;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
